@@ -90,11 +90,11 @@
 
 - テキスト B をコピーします
 - テキスト A を選択します
-- 右クリック後 `Compare Text With Clipborad` を選択すると、差分が表示されます
+- 右クリック後 `Compare Text With Clipboard` を選択すると、差分が表示されます
 
 
 ### クリップボードとファイル
 
 - テキスト B をコピーします
-- エディタ内でテキストを選択しない状態で、右クリック後 `Compare Text With Clipborad` を選択すると、差分が表示されます
+- エディタ内でテキストを選択しない状態で、右クリック後 `Compare Text With Clipboard` を選択すると、差分が表示されます
 
